@@ -2,6 +2,8 @@
 
 A React + Vite prototype for the Kamao.ai intern task: a TikTok-style vertical video player with one-video-per-screen navigation, interactive overlays, and mobile-first polish.
 
+## demo video link
+http://drive.google.com/file/d/1R2ThBMqvqT8M8mK6dy9EA6rSLVuVIIpR/view?usp=drive_link
 ## Features
 
 - Vertical snapped feed with seamless looping
